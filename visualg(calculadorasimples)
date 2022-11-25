@@ -1,0 +1,32 @@
+algoritmo "calculadorasimples"
+var
+   numero1:real
+   numero2:real
+   operacao:caractere
+   resultado:real
+inicio
+
+   escreval("digite o primeiro número")
+   leia(numero1)
+   escreval("digite a operação:")
+   leia(operacao)
+   escreval("digite o segundo número")
+   leia(numero2)
+   se operacao = "+" entao
+      resultado := numero1 + numero2
+   senao
+      se operacao = "-" entao
+         resultado := numero1 - numero2
+      senao
+         se operacao = "*" entao
+            resultado := numero1 * numero2
+         senao
+            se operacao = "/" entao
+               resultado := numero1 / numero2
+            fimse
+         fimse
+      fimse
+   fimse
+   escreva("resultado: ", resultado)
+
+fimalgoritmo
