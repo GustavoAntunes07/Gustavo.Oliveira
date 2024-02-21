@@ -1,11 +1,13 @@
-# projetos-e-rascunhos
-Este é um repositório voltado para guardar meus principais projetos tanto escolares quanto pessoais, ou rascunhos e coisas menores que apenas faço para aprender mais sobre determinada linguagem de programação ou programa.
-Fique a vontade para explorar e testar códigos deste repositório.
+# Hello there!
 
+* ⚙️ Working with: Front-End
+* 🤔 Learning: TypeScript
+* ✉️ Contact: gustavoantunes64@outlook.com
 
-Obrigado por visitar meu perfil
-
-Que a força esteja com você! 
-
+<div>
+ <a href="http://github.com/GustavoAntunes07">
+ <img height"180em" src="https://github-readme-stats.vercel.app/api?username=GustavoAntunes07&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height"180em" src="https://github-readme-stats.vercel.app/api?username=GustavoAntunes07&layout=compact&langs_count=16&theme=dark"/>
+</div>
 
 
